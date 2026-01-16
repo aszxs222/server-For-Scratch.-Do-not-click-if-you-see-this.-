@@ -1,0 +1,1 @@
+{"name":"hardware-detector","version":"1.0.0","main":"server.js","dependencies":{"systeminformation":"^5.27.13"}}
